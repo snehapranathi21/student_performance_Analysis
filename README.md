@@ -28,7 +28,7 @@ To analyze and visualize student data to uncover patterns in:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Overview](Screenshot (39)/dashboard_overview.png)
+![Dashboard Overview](Screenshot (39).png)
 
 
 
